@@ -1,5 +1,4 @@
 deps/
-ebin/
 _rel/
 .erlang.mk/
 *.d
